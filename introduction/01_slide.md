@@ -9,3 +9,5 @@
 * Amos King
 * Rails tech lead @ Asynchrony Solutions
 * Tired of Muffin Top models, Craig
+* Twitter: @adkron
+* github: adkron
